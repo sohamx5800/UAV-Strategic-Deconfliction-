@@ -279,10 +279,7 @@ The UI emphasizes **clarity, speed, and cognitive efficiency**.
 
 ---
 
-### Running V2 Locally
 
-#### Backend (Python)
-```bash
-cd v2_ATC_system
-python main.py
+
+
 
