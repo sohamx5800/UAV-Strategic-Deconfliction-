@@ -120,6 +120,13 @@ Run v1/v1.1
 
 ## Module V2 — Real-Time UAV Air Traffic Control (ATC) System
 
+### Running V2 Locally
+     ```bash
+        npm install react react-dom
+        npm install -D typescript @types/react @types/react-dom vite
+        npm install
+        npm run dev
+
 ### Motivation
 
 While V1 and V1.1 focus on **strategic, pre-flight validation**, real-world drone operations require **continuous, real-time airspace supervision**.
